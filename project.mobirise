@@ -24,10 +24,7 @@
     "uniqCompNum": 109,
     "versionPublish": "3.11.1",
     "path": "file:///E:",
-    "screenshot": "screenshot.png",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "file:///G:/666"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
