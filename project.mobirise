@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page8.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1400,7 +1400,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/125640701-1400x2486.png",
+              "src": "@PROJECT_PATH@/assets/images/1510647974417451-1400x873.jpg",
               "link": "",
               "alt": "",
               "title": "",
